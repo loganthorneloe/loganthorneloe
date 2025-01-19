@@ -9,7 +9,7 @@ I'm currently working on:
 * a collection of ML projects for beginners to gain ML experience (coming soon!).
 
 My other projects include:
-* [research](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zFntG6MAAAAJ&citation_for_view=zFntG6MAAAAJ:zYLM7Y9cAGgC) explore the feature space of segmentation CNNs.
+* [research](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zFntG6MAAAAJ&citation_for_view=zFntG6MAAAAJ:zYLM7Y9cAGgC) exploring the feature space of segmentation CNNs.
 * [research](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zFntG6MAAAAJ&citation_for_view=zFntG6MAAAAJ:qjMakFHDy7sC) exploring muscle activation detection via MRI.
 * [automation](https://github.com/loganthorneloe/stock-boy) of long-term US stock analysis using financial statements.
 * an [automated Pokemon breeder](https://github.com/loganthorneloe/swsh-pokemon-breeder).
