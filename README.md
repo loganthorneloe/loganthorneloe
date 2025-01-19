@@ -1,4 +1,4 @@
-## Hi, I'm Logan👋
+## Hi, I'm Logan 👋
 
 I'm a machine learning infrastructure engineer at Google and I help software engineers learn AI. I have both AI [research](https://scholar.google.com/citations?user=zFntG6MAAAAJ&hl=en) and [engineering](https://www.linkedin.com/in/loganthorneloe/) experience and I [write](https://societysbackend.com) and work on projects on the side (see pins below).
 
