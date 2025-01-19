@@ -3,10 +3,10 @@
 I'm a machine learning infrastructure engineer at Google and I help software engineers learn AI. I have both AI [research](https://scholar.google.com/citations?user=zFntG6MAAAAJ&hl=en) and [engineering](https://www.linkedin.com/in/loganthorneloe/) experience and I [write](https://societysbackend.com) and work on projects on the side (see pins below).
 
 Resources I've put together for you to learn AI:
-* [societysbackend.com](https://societysbackend.com): Everything you need to know about AI engineering.
-* [mlroadmap.io](https://mlroadmap.io): A guide to learn ML fundamentals for free (pinned).
-* a [YouTube channel](https://www.youtube.com/@loganthorneloe) to explain AI via video.
-* a collection of ML projects for beginners to gain ML experience (coming soon!).
+📰 [societysbackend.com](https://societysbackend.com): Everything you need to know about AI engineering.
+🗺️ [mlroadmap.io](https://mlroadmap.io): A guide to learn ML fundamentals for free (pinned).
+📽️ a [YouTube channel](https://www.youtube.com/@loganthorneloe) to explain AI via video.
+🔨 a collection of ML projects for beginners to gain ML experience (coming soon!).
 
 Come find me on [X](https://x.com/loganthorneloe), [LinkedIn](https://www.linkedin.com/in/loganthorneloe/), and [YouTube](https://www.youtube.com/@loganthorneloe).
 <!--
