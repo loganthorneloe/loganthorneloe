@@ -4,7 +4,7 @@ I'm a machine learning infrastructure engineer at Google and I help software eng
 
 Resources I've put together for you to learn AI:
 * [societysbackend.com](https://societysbackend.com): Everything you need to know about AI engineering.
-* [mlroadmap.io](https://mlroadmap.io): A guide to learn ML fundamentals for free (pinned below).
+* [mlroadmap.io](https://mlroadmap.io): A guide to learn ML fundamentals for free (pinned).
 * a [YouTube channel](https://www.youtube.com/@loganthorneloe) to explain AI via video.
 * a collection of ML projects for beginners to gain ML experience (coming soon!).
 
