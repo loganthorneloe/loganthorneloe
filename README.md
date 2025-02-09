@@ -7,6 +7,7 @@ I make TPUs go brrrr at Google and I help software engineers learn AI. Some idea
 * ***The limit to what you can accomplish is dictated by how much you're willing to learn.*** It's never been easier to learn new information. You can achieve anything as long as you're willing to learn the skills required to do so.
 * ***The most important skill anyone can master is time management.*** Things take time and it's the only resource you can never get back.
 * ***Pressure is a privilege.*** If you let pressure get to you, you'll fail. If you let it motivate you, you'll achieve greatness.
+* ***Be goofy.*** Don't let insecurity or embarrassment keep you from having fun. Enjoy the moment and ignore what others might think. Most people will benefit from the positivity this brings. Everyone else isn't worth your time.
 
 I created [mlroadmap.io](https://mlroadmap.io) to help you learn ML fundamentals for free. I'm working on an ML projects repo to help you learn AI more in-depth and hands-on (stay tuned!). I [tweet](https://x.com/loganthorneloe) things I think you should know. I [write](https://societysbackend.com) to share everything you need to know about AI engineering. [Subscribe](https://societysbackend.com/subscribe) to get it in your inbox. Soon, I'll translate my writing into [videos](https://www.youtube.com/@loganthorneloe) to make them even easier to consume.
 
