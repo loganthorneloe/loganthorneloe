@@ -1,12 +1,23 @@
 ## Hi, I'm Logan 👋
 
-I'm an ML infra engineer at Google. My current focus in on continuous learning and increasing ML experimentation velocity and efficiency. Previously, I worked in ML infra at Microsoft and researched [ML applications of medical imaging](https://scholar.google.com/citations?user=zFntG6MAAAAJ&hl=e) at BYU in Provo, Utah.
+I'm an ML infra engineer at Google. My current focus in on continuous learning and increasing ML experimentation velocity and efficiency. Previously, I worked:
 
-I've set up a machine learning community for software engineers appropriately named [Machine Learning for Software Engineers](mlforswes.com). At it's core it's a [newsletter](mlforswes.com), [chat](https://substack.com/chat/1744179), and [repo](src.mlforswes.com) to get hands-on at the intersection of software engineering and AI. This means we explore the entire ML stack from data through training to serving with articles, tutorials, videos, and more.
+* in ML infra at Microsoft
+* [ML applications of medical imaging](https://scholar.google.com/citations?user=zFntG6MAAAAJ&hl=e) research at BYU.
+
+## I help others learn about ML/AI
+
+I've set up a machine learning community for software engineers appropriately named [Machine Learning for Software Engineers](mlforswes.com). At it's core it's a [newsletter](mlforswes.com), [chat](https://substack.com/chat/1744179), and [repo](src.mlforswes.com) to get hands-on at the intersection of software engineering and AI. This means we explore the entire ML stack from data through training to serving with articles, tutorials, videos, etc.
+
+## Why ML is so important for SWEs
 
 I created ML for SWEs because **it's important all software engineers understand machine learning.** What was previously thought of as discipline within software engineering is actually a fundamental tool for the trade. Similar to understanding databases, APIs, network protocols, and algorithms to solve problems efficiently, software engineers will need to understand ML/AI as problems become more complex and solutions are data-driven. Machine learning is THE tool for solving interesting problems at scale and software engineers are the most important role in making those solutions reliable and accessible.
 
-I love to chat! Find me on my socials and reach out: [X](https://x.com/loganthorneloe), [LinkedIn](https://www.linkedin.com/in/loganthorneloe/), and [YouTube](https://www.youtube.com/@loganthorneloe). You can find more about me below.
+## Reach out
+
+* [X](https://x.com/loganthorneloe)
+* [LinkedIn](https://www.linkedin.com/in/loganthorneloe/)
+* [YouTube](https://www.youtube.com/@loganthorneloe).
 
 ## More about me
 
