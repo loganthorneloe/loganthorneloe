@@ -17,7 +17,7 @@ I created ML for SWEs because **it's important all software engineers understand
 
 * [X](https://x.com/loganthorneloe)
 * [LinkedIn](https://www.linkedin.com/in/loganthorneloe/)
-* [YouTube](https://www.youtube.com/@loganthorneloe).
+* [YouTube](https://www.youtube.com/@loganthorneloe)
 
 ## More about me
 
