@@ -1,24 +1,15 @@
 ## Hi, I'm Logan 👋
 
-I'm an ML infra engineer at Google. My current focus in on continuous learning and increasing ML experimentation velocity and efficiency. Previously, I worked:
+I'm a machine learning infrastructure engineer at Google. My current focus in on increasing continuous ML experimentation velocity and efficiency. Previously, I worked n ML infra at Microsoft and on [ML applications of medical imaging](https://scholar.google.com/citations?user=zFntG6MAAAAJ&hl=e) research. You can find more about my work on my [LinkedIn](https://www.linkedin.com/in/loganthorneloe/)).
 
-* in ML infra at Microsoft
-* [ML applications of medical imaging](https://scholar.google.com/citations?user=zFntG6MAAAAJ&hl=e) research at BYU.
+I write a newsletter to help software engineers understanding machine learning and how important their role is (the most important, tbh) in building AI. You can find that [here](https://mlforswes.com).
 
-## I help others learn about ML/AI
+I also build side projects and put together hands-on learning resources. You can find all that right here on GitHub.
 
-I've set up a machine learning community for software engineers appropriately named [Machine Learning for Software Engineers](mlforswes.com). At it's core it's a [newsletter](mlforswes.com), [chat](https://substack.com/chat/1744179), and [repo](src.mlforswes.com) to get hands-on at the intersection of software engineering and AI. This means we explore the entire ML stack from data through training to serving with articles, tutorials, videos, etc.
+When I'm not making TPUs go brrrrr, I'm spending time with my beautiful wife and five kids (including two sets of identical twins!), enjoying a swim, or playing video games, tabletop games, or card games. I'm curious and a huge fan of incredible engineering (ranging from Formula 1 to 3D printing to building with LEGO).
 
-## Why ML is so important for SWEs
+I consider myself an optimist, pronoid, and a huge proponent of learning things in public. I firmly believe there isn't a thing in life one can't learn, but it takes work to do so and is easier accomplished with others. I credit where I'm at in life (career, family, etc.) to the incredible support system I've had along the way and recognize that the people I've spent my time with have molded me into who I am. I hope to have a similar positive impact of those around me.
 
-I created ML for SWEs because **it's important all software engineers understand machine learning.** What was previously thought of as discipline within software engineering is actually a fundamental tool for the trade. Similar to understanding databases, APIs, network protocols, and algorithms to solve problems efficiently, software engineers will need to understand ML/AI as problems become more complex and solutions are data-driven. Machine learning is THE tool for solving interesting problems at scale and software engineers are the most important role in making those solutions reliable and accessible.
+I have a connective tissue autoimmune disease that greatly impacts my life and has taken a decade to learn how to manage. If you find yourself in a similar situation and are looking for advice, please [reach out](mailto:loganthorneloe@gmail.com) and I'll offer support in any way I can. Things get better, but it takes time.
 
-## Reach out
-
-* [X](https://x.com/loganthorneloe)
-* [LinkedIn](https://www.linkedin.com/in/loganthorneloe/)
-* [YouTube](https://www.youtube.com/@loganthorneloe)
-
-## More about me
-
-I'm currently located in the Austin, TX metro. I was born in Canada and lived on the east coast of the US most of my life. I have 5 kids including 2 sets (!!) of identical twins. My favorite form of exercise is swimming. Back in the day I also played water polo. I enjoy reading comics and technical books. I also build LEGO, play video games, and tinker with things in my free time. You can checked out some of my projects in the pinned repos. My favorite thing is spending time with my kids. Nothing else compares in importance. I've got a connective tissue autoimmune diseases I manage daily. It's reframed the way I look at a lot of things and has had the biggest impact on how I prioritize things in life. I credit the person I am and the things I've achieved to the people I spend my time around. My family and close friends have molded me into who I am and have been my greatest support system.
+If you have any questions or want to chat, you can find me on [X](https://x.com/loganthorneloe), [Substack](https://substack.com/loganthorneloe), [LinkedIn](https://www.linkedin.com/in/loganthorneloe/), and [YouTube](https://www.youtube.com/@loganthorneloe).
