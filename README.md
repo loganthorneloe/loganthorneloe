@@ -4,7 +4,7 @@ I'm a machine learning infrastructure engineer at Google. My current focus in on
 
 I write a newsletter to help software engineers understanding machine learning and how important their role is (the most important, tbh) in building AI. You can find that [here](https://mlforswes.com).
 
-I also build side projects and put together hands-on learning resources. You can find all that right here on GitHub.
+I enjoying starting new side projects instead of finishing current ones, but I make sure to finish the hands-on AI learning resources I put together. You can find both the half-baked projects and the learning resources right here on GitHub.
 
 When I'm not making TPUs go brrrrr, I'm spending time with my beautiful wife and five kids (including two sets of identical twins!), enjoying a swim, or playing video games, tabletop games, or card games. I'm curious and a huge fan of incredible engineering (ranging from Formula 1 to 3D printing to building with LEGO).
 
