@@ -1,6 +1,6 @@
 ## Hi, I'm Logan 👋
 
-I'm a machine learning infrastructure engineer at Google. My current focus is on increasing continuous ML experimentation velocity and efficiency. Previously, I worked on ML infra at Microsoft and researched [machine learning applications of medical imaging](https://scholar.google.com/citations?user=zFntG6MAAAAJ&hl=e). You can find more about my work on [LinkedIn](https://www.linkedin.com/in/loganthorneloe/).
+I'm a machine learning infrastructure engineer at Google. My current focus is on increasing continuous ML experimentation velocity and efficiency. Previously, I worked on ML infra at Microsoft and researched [machine learning applications within medical imaging](https://scholar.google.com/citations?user=zFntG6MAAAAJ&hl=e). You can find more about my work on [LinkedIn](https://www.linkedin.com/in/loganthorneloe/).
 
 I write a newsletter to help software engineers understand machine learning and how important their role is in building AI (the most important, tbh). You can find that [here](https://mlforswes.com).
 
