@@ -4,8 +4,6 @@ I'm a machine learning infrastructure engineer at Google. My current focus is on
 
 I write a newsletter to help software engineers understand machine learning and how important their role is in building AI (the most important, tbh). You can find that [here](https://mlforswes.com).
 
-I enjoy starting new side projects instead of finishing current ones, but I make sure to finish any hands-on AI learning resources I put together. You can find both the half-baked projects and the learning resources right here on GitHub.
-
 When I'm not making TPUs go brrrrr, I'm spending time with my beautiful wife and five kids (including *two sets of identical twins* and one **super** middle child), enjoying a swim, or playing video games, tabletop games, or card games. I'm curious and a huge fan of incredible engineering (ranging from Formula 1 to 3D printing to building with LEGO).
 
 I consider myself an optimist, pronoid, and a huge proponent of learning things in public. I firmly believe there isn't a thing in life one can't learn, but it takes work to do so and is more easily accomplished with others. I credit where I'm at in life (career, family, etc.) to the incredible support system I've had along the way and recognize that the people I've spent my time with have molded me into who I am. I hope to have a similar positive impact of those around me.
