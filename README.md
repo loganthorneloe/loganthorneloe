@@ -4,7 +4,9 @@ I work at the intersection of ML infrastructure, agents, and developer tooling a
 
 Previously, I worked on ML infrastructure at Microsoft and researched AI applications in medical imaging.
 
-I also write [AI for Software Engineers](https://aiforswes.com/subscribe), a bestselling Substack newsletter to help engineers understand deep AI.
+I also write [AI for Software Engineers](https://aiforswes.com/subscribe), a bestselling Substack newsletter to help engineers understand AI.
+
+Learn more about me [here](https://loganthorneloe.com).
 
 ### Contact
 
